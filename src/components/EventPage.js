@@ -35,6 +35,7 @@ export default function EventPage() {
             </div>
             <img className='details' src='details.png'></img>
             <img className='posts' src='posts.png'></img>
+            <div></div>
             <button onClick={handleClick}>edit content</button>
         </div>
     )

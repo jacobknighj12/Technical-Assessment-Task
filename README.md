@@ -1,3 +1,13 @@
+This assessment was created for a junior application for Envited
+full assessment completed with both bonus additions hosted site can be found here
+https://envited.herokuapp.com/
+due to the layout of the figma drawing I opted to run in the mobile view mode and chose pixel 5 dimensions in google chrome inspect I hope that all of my sizings
+are correct on your version however I will add screenshots of my final product here as well to show my vision of the app, all functionality worked in both the live site
+and local
+
+all images are located in the screencaps folder
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
