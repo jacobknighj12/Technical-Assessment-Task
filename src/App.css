@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+}
+
+.e{
+  margin-top: 20px;
+  margin-left: 10px;
+  width: 30px;
+  height: 30px;
+
+}
+.text{
+  margin: 15px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+.login{
+  margin: 15px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  padding-left: 100px;
+}
+.nav{
+
+  Display: flex;
+  justify-content: flex-start;
+  position: absolute;
+}
+.home-content{
+  margin-top: 100px;
+  position: absolute;
+  color: white;
+}
+.button{
+  margin-top: 210px;
+  padding: 90px;
+  width: 50%;
+  position: absolute;
+}
+.left
+{
+  margin-top: 360px;
+  width: 220px;
+  position: absolute;
+  margin-left: 30px;
+}
+.middle
+{
+  margin-top: 360px;
+  width: 220px;
+  position: absolute;
+  margin-left: 100px;
+}
+.right
+{
+  margin-top: 360px;
+  width: 220px;
+  position: absolute;
+  margin-left: 170px;
+}
+.icons{
+  margin-top: 360px;
+  width: 400px;
+  position: absolute;
+}
+.bg{
+  height: 851px;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  padding: 10%;
+}
+.cover{
+  height: 290px;
+}
+.event{
+  padding-right: 120px;
+  color: #501FC1;
+
+margin: 0;
+}
+.event-content{
+  color: #501FC1;
+  margin: 0;
+}
+.going{
+width: 55px;
+}
+.maybe
+{
+  width: 55px;
+}
+.not-going{
+  width: 55px;
+}
+.settings{
+  width: 57px;
+}
+.invite{
+  width: 255px;
+}
+.details{
+  width: 150px;
+}
+.posts{
+  width: 150px;
+}
