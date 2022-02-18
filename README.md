@@ -5,6 +5,8 @@ due to the layout of the figma drawing I opted to run in the mobile view mode an
 are correct on your version however I will add screenshots of my final product here as well to show my vision of the app, all functionality worked in both the live site
 and local
 
+with the Editing on the Event page the fields are editable through an on off togle with useState
+
 Routing through react router is also fully functioning when clicking on buttons between pages
 
 all images are located in the screencaps folder
